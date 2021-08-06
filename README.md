@@ -1,1 +1,1 @@
-# Simgple Avatar Uploader
+# Simple Avatar Uploader
